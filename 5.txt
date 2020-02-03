@@ -1,3 +1,4 @@
 this is to test the second working dir of git
-
 now lets test this setup for merge scenario
+user 2 checking the merge scenario
+
