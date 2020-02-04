@@ -1,5 +1,5 @@
 first file of git 2.9.5
-
 checking the user scenarios for conflicts
-
 lets modify for user1
+lets check the conflict for second user
+will it commit ?
