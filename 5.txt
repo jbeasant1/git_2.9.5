@@ -1,3 +1,6 @@
 checking the conflisct scenarion
-
 modifying the file with user1
+=======
+everything is crap
+i will write my own code
+User2 
